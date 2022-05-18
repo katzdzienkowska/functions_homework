@@ -62,11 +62,19 @@ def number_to_short_month_name(num1):
     return calendar.month_abbr[num1]
 
 #14th test
+def number_to_short_month_name(num1):
+    import calendar
+    return calendar.month_abbr[num1]
+
+#15th test
 def cube_side_length(num1):
     result = num1 ** 3
     return result
 
-#15th test
+#16th test
 def reverse_string(string1):
     return string1[::-1]
 
+#17th test
+def fahrenheit_to_celsius(num1):
+    return (num1 - 32) / 1.8

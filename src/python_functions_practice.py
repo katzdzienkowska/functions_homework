@@ -6,3 +6,8 @@ def return_10():
 def add(num1, num2):
     sum = num1 + num2
     return sum
+
+#3rd test
+def subtract(num1, num2):
+    result = num1 - num2
+    return result

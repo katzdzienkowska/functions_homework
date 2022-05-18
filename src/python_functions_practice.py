@@ -22,3 +22,7 @@ def divide(num1, num2):
     result = num1 / num2
     return result
 
+#6th test
+def length_of_string(string):
+    return len(string)
+

@@ -38,8 +38,5 @@ def add_string_as_number(num1, num2):
 
 #9th test
 def number_to_full_month_name(num1):
-    num1 = "January"
-    return num1
-
-#10th test
-
+    import calendar
+    return calendar.month_name[num1]

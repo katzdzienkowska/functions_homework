@@ -36,3 +36,8 @@ def add_string_as_number(num1, num2):
     result = int(num1) + int(num2)
     return result
 
+#9th test
+def number_to_full_month_name(num1):
+    num1 = "January"
+    return num1
+

@@ -31,3 +31,8 @@ def join_string(string_1, string_2):
     result = string_1 + string_2
     return result
 
+#8th test
+def add_string_as_number(num1, num2):
+    result = int(num1) + int(num2)
+    return result
+

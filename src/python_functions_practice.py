@@ -50,4 +50,8 @@ def number_to_full_month_name(num1):
 def number_to_short_month_name(num1):
     import calendar
     return calendar.month_abbr[num1]
-    
+
+#12th test
+def number_to_short_month_name(num1):
+    import calendar
+    return calendar.month_abbr[num1]

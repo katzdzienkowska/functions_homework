@@ -66,3 +66,7 @@ def cube_side_length(num1):
     result = num1 ** 3
     return result
 
+#15th test
+def reverse_string(string1):
+    return string1[::-1]
+

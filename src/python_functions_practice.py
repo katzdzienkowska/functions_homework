@@ -61,3 +61,8 @@ def number_to_short_month_name(num1):
     import calendar
     return calendar.month_abbr[num1]
 
+#14th test
+def cube_side_length(num1):
+    result = num1 ** 3
+    return result
+

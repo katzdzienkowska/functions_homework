@@ -40,3 +40,10 @@ def add_string_as_number(num1, num2):
 def number_to_full_month_name(num1):
     import calendar
     return calendar.month_name[num1]
+
+#10th test
+def number_to_full_month_name(num1):
+    import calendar
+    return calendar.month_name[num1]
+
+

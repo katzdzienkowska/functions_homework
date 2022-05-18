@@ -11,3 +11,9 @@ def add(num1, num2):
 def subtract(num1, num2):
     result = num1 - num2
     return result
+
+#4th test
+def multiply(num1, num2):
+    result = num1 * num2
+    return result
+

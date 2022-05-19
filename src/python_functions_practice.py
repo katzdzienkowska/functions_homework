@@ -36,35 +36,35 @@ def add_string_as_number(num1, num2):
     result = int(num1) + int(num2)
     return result
 
-#9th test
+#9th, 10th and 11th test - I have realised that this function will work across all three tests, so commenting out the two below
 def number_to_full_month_name(num1):
     import calendar
     return calendar.month_name[num1]
 
-#10th test
-def number_to_full_month_name(num1):
-    import calendar
-    return calendar.month_name[num1]
+# #10th test
+# def number_to_full_month_name(num1):
+#     import calendar
+#     return calendar.month_name[num1]
 
 #11th test
+# def number_to_full_month_name(num1):
+#     import calendar
+#     return calendar.month_name[num1]
+
+#12th, 13th and 14th test  - I have reaalised that this function will work across all three tests, so commenting out the two below
 def number_to_short_month_name(num1):
     import calendar
     return calendar.month_abbr[num1]
 
-#12th test
-def number_to_short_month_name(num1):
-    import calendar
-    return calendar.month_abbr[num1]
-
-#13th test
-def number_to_short_month_name(num1):
-    import calendar
-    return calendar.month_abbr[num1]
+# #13th test
+# def number_to_short_month_name(num1):
+#     import calendar
+#     return calendar.month_abbr[num1]
 
 #14th test
-def number_to_short_month_name(num1):
-    import calendar
-    return calendar.month_abbr[num1]
+# def number_to_short_month_name(num1):
+#     import calendar
+#     return calendar.month_abbr[num1]
 
 #15th test
 def cube_side_length(num1):
